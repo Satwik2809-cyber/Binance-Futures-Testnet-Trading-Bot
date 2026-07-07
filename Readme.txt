@@ -1,15 +1,15 @@
-# 📊 Binance Futures Testnet Trading Bot
+# Binance Futures Testnet Trading Bot
 
 A simple Python trading bot to place market and limit orders on the Binance Futures Testnet.
 
-## 🔧 Features
+## Features
 - Market and limit order support
 - Buy and sell order placement
 - CLI input handling
 - Logging of all actions and errors
 - Testnet-compatible
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repo or download the files.
 2. Install the required library:
@@ -21,7 +21,7 @@ A simple Python trading bot to place market and limit orders on the Binance Futu
     python main.py
     ```
 
-## 📝 Requirements
+## Requirements
 - Binance Testnet API key and secret
 - Python 3.7+
 
